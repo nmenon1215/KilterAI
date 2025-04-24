@@ -9,7 +9,7 @@ import sqlite3
 import pandas as pd
 
 # Connect to the database
-db_path = 'kilter.db'  # Update this path if your database is stored elsewhere
+db_path = '../kilter.db'  # Update this path if your database is stored elsewhere
 conn = sqlite3.connect(db_path)
 
 # Query the full difficulty_grades table
