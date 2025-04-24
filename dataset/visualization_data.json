@@ -1,0 +1,6950 @@
+{
+  "V4": [
+    {
+      "id": "196853133a9d4e628cbea3b7487dcaef",
+      "name": "dddd75",
+      "holds": [
+        {
+          "x": 140.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 128.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 60.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 116.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 18.8101
+    },
+    {
+      "id": "548CC78B6298453185098650FC7BF68B",
+      "name": "Jenntle touch",
+      "holds": [
+        {
+          "x": 100.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 19.0
+    },
+    {
+      "id": "589b75ec74f140ee9cc03607d5505d77",
+      "name": "Snowy Night",
+      "holds": [
+        {
+          "x": 48.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -12.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 0.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 0.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 0.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -16.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 152.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 160.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 160.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 19.0
+    },
+    {
+      "id": "2273b198e0874936a4b6bbe627390ce2",
+      "name": "T\u00f6l. Campusing for beginners",
+      "holds": [
+        {
+          "x": 16.0,
+          "y": 120.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 168.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 19.8553
+    },
+    {
+      "id": "F3FA34852DE34D33B3B43778C984E47C",
+      "name": "Obsequious George",
+      "holds": [
+        {
+          "x": 68.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 4.0,
+          "y": 20.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 32.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 4.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 44.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 18.5
+    }
+  ],
+  "V8": [
+    {
+      "id": "0E17726EAF2D426B87B899DD723BBA84",
+      "name": "RGAM.1",
+      "holds": [
+        {
+          "x": 80.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 100.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 44.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 60.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 25.7778
+    },
+    {
+      "id": "8875C4CD19604F17B6C5206947F090EF",
+      "name": "Ketchup on shirt, mustard in ass",
+      "holds": [
+        {
+          "x": 24.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 92.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 108.0,
+          "y": 108.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 116.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 25.0
+    },
+    {
+      "id": "2c4b9c67772142e99b20881e107d664a",
+      "name": "HUT Boulder 8",
+      "holds": [
+        {
+          "x": 120.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 24.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 24.6667
+    },
+    {
+      "id": "27a979ff7fab4bf19d822a3f447f7916",
+      "name": "rippen shouldies",
+      "holds": [
+        {
+          "x": 4.0,
+          "y": 132.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 25.0
+    },
+    {
+      "id": "DFB6BB29237443DEAD9AAE2DCD353168",
+      "name": "Butterfly Effect",
+      "holds": [
+        {
+          "x": 16.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 16.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 24.5
+    }
+  ],
+  "V12": [
+    {
+      "id": "3F2F69DED81244C8AE7E5B64B5B3A013",
+      "name": "freak moment",
+      "holds": [
+        {
+          "x": 8.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 29.85
+    },
+    {
+      "id": "152894C4F512449AAEAC285E221F603D",
+      "name": "what the clucks",
+      "holds": [
+        {
+          "x": 112.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 29.0
+    },
+    {
+      "id": "0ac115fbcce442f08f88f27cfa61431b",
+      "name": "Plus Minus One",
+      "holds": [
+        {
+          "x": 8.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 104.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 92.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 29.0
+    },
+    {
+      "id": "17a8abe6f5df434f86d35450ab91c532",
+      "name": "Gimme Some Oven",
+      "holds": [
+        {
+          "x": 72.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 12.0,
+          "y": 76.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 29.0
+    },
+    {
+      "id": "3F4D9D2CA3D8457F9A799E1011380E94",
+      "name": "griffin 4",
+      "holds": [
+        {
+          "x": 40.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 12.0,
+          "y": 60.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 32.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 29.0
+    }
+  ],
+  "V1": [
+    {
+      "id": "0E915820A8DB4D1E9739C178763A6035",
+      "name": "K\u2019s easy warmup",
+      "holds": [
+        {
+          "x": 80.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 13.6667
+    },
+    {
+      "id": "2061D7E8A7E24F24B47475EB2138B059",
+      "name": "play 1",
+      "holds": [
+        {
+          "x": 96.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 12.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 14.0
+    },
+    {
+      "id": "c73b45844e1f4e689a66d540bfaff4b2",
+      "name": "insect!!!",
+      "holds": [
+        {
+          "x": 84.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 112.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 4.0,
+          "y": 132.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 13.0
+    },
+    {
+      "id": "1E29D2E9BD584B32901FA8AC473358D8",
+      "name": "warm feelings",
+      "holds": [
+        {
+          "x": 52.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 84.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 14.0
+    },
+    {
+      "id": "04255A6EA63245F6B57EA805E966443F",
+      "name": "vals 1",
+      "holds": [
+        {
+          "x": 88.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 12.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 12.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 84.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 13.5
+    }
+  ],
+  "V3": [
+    {
+      "id": "0182629AA9154AEAAE9011CE14823F7E",
+      "name": "Muscular Pikachu",
+      "holds": [
+        {
+          "x": 88.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 16.5
+    },
+    {
+      "id": "09258DAC38E240F2B612B1C626453C95",
+      "name": "Sway With Me",
+      "holds": [
+        {
+          "x": 8.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 84.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 92.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 17.0
+    },
+    {
+      "id": "52EF74BCCD084969BC68433AFDEE0965",
+      "name": "No Uggs",
+      "holds": [
+        {
+          "x": 48.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": -4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -8.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -8.0,
+          "y": 12.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -8.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 144.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 144.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 152.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -12.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 148.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 17.8
+    },
+    {
+      "id": "196C141EB767475D9FEFB768BF67E775",
+      "name": "nice stretch",
+      "holds": [
+        {
+          "x": 8.0,
+          "y": 24.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 24.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 16.25
+    },
+    {
+      "id": "480323e2885a4e9bb98e94985cb7f90b",
+      "name": "dddd49",
+      "holds": [
+        {
+          "x": 44.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 4.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 24.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 24.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 16.9902
+    }
+  ],
+  "V0": [
+    {
+      "id": "10AFF848DCDD4309BF526EFA4B49E34B",
+      "name": "Best Foot Forward",
+      "holds": [
+        {
+          "x": 140.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 4.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 4.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 28.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 32.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 12.0
+    },
+    {
+      "id": "4D3080D5D47D43018A82A9308684E9B5",
+      "name": "The Butcherblock",
+      "holds": [
+        {
+          "x": 28.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 4.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 24.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 11.0
+    },
+    {
+      "id": "CC106F58DE1E4169BA1289664B450619",
+      "name": "simple butt",
+      "holds": [
+        {
+          "x": 76.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 12.0,
+          "y": 60.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 24.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 24.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 60.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 10.0
+    },
+    {
+      "id": "39616d460c7245da8740ec5cfbd8b785",
+      "name": "Race Route",
+      "holds": [
+        {
+          "x": 92.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 64.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 12.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 4.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 12.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 72.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 20.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 11.0
+    },
+    {
+      "id": "4C3C4EB57C8C44FFA6C89B3748B91AB7",
+      "name": "Not For Tall People",
+      "holds": [
+        {
+          "x": 104.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 92.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 32.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 92.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 11.0
+    }
+  ],
+  "V5": [
+    {
+      "id": "1A5C2DEE469B48E08C42FAAF41608D24",
+      "name": "hurt your hands",
+      "holds": [
+        {
+          "x": 8.0,
+          "y": 80.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 60.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 104.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 20.0
+    },
+    {
+      "id": "1E460FD8FC8F4404A66666922CDC1C5C",
+      "name": "syntactic structures",
+      "holds": [
+        {
+          "x": 84.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 72.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 21.7692
+    },
+    {
+      "id": "33CC593786D04749B3D66D9384416657",
+      "name": "Skin? What\u2019s that?",
+      "holds": [
+        {
+          "x": 60.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 4.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 4.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 20.0588
+    },
+    {
+      "id": "1C2B898F3C1941468EDC44FE5ED3AB61",
+      "name": "Warm Up Circuit #9",
+      "holds": [
+        {
+          "x": 92.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 60.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 92.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 21.0
+    },
+    {
+      "id": "2f781ddbcc1e45169be9f430736bf2bc",
+      "name": "Big chungus industry",
+      "holds": [
+        {
+          "x": 140.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 84.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 20.0
+    }
+  ],
+  "V2": [
+    {
+      "id": "9041b46928dd4195b1cde10e98710732",
+      "name": "The Change-Up!!!",
+      "holds": [
+        {
+          "x": 116.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 116.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 15.0
+    },
+    {
+      "id": "463cef9cfe6a47afbc887acf5eb16992",
+      "name": "Viterbo's",
+      "holds": [
+        {
+          "x": 76.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 124.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 15.0
+    },
+    {
+      "id": "2A80C6BFEE8C4393BC481E392A27995F",
+      "name": "Dress Dragger",
+      "holds": [
+        {
+          "x": 140.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 128.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 84.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 84.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 84.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 15.0
+    },
+    {
+      "id": "DCA3538EBDED4D00A02969816FAD61D3",
+      "name": "The Grand Traverse",
+      "holds": [
+        {
+          "x": 128.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 120.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 15.0
+    },
+    {
+      "id": "174DB9E13AB444DAB7A95CD3A3A1BFDF",
+      "name": "up n around",
+      "holds": [
+        {
+          "x": 132.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 4.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 24.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 15.0
+    }
+  ],
+  "V16": [
+    {
+      "id": "2D2D39B7EEA541968B6120D70BDF008A",
+      "name": "i think it goes",
+      "holds": [
+        {
+          "x": 44.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 33.0
+    },
+    {
+      "id": "0992FBAA51204B3C9450FFD2A4B48150",
+      "name": "Purple Nerple",
+      "holds": [
+        {
+          "x": 128.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 84.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 108.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 33.0
+    },
+    {
+      "id": "45C1DDA77A80451F9315FABF03723F4E",
+      "name": "Dolby",
+      "holds": [
+        {
+          "x": 120.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 80.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 72.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 92.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 104.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 120.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 33.0
+    },
+    {
+      "id": "471A1D4D87F347789B20814ED7D044E1",
+      "name": "kid courses V2",
+      "holds": [
+        {
+          "x": 72.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 4.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 136.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 144.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 33.0
+    },
+    {
+      "id": "2ACED80706EE4320A83DF67D88712828",
+      "name": "for your foots only",
+      "holds": [
+        {
+          "x": 80.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 48.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 92.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 116.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 116.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 124.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 120.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 120.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 33.0
+    }
+  ],
+  "V6": [
+    {
+      "id": "5A38FC88C807438987A7F8FCE0898540",
+      "name": "Doable",
+      "holds": [
+        {
+          "x": 132.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 64.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 12.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 108.0,
+          "y": 108.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 22.0
+    },
+    {
+      "id": "3F0B2143916347E0B384D0B98C9DA20C",
+      "name": "Just Cross, Manny.",
+      "holds": [
+        {
+          "x": 96.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 92.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 22.0
+    },
+    {
+      "id": "581412DF26AC406F93C3CE7EA2DA47C5",
+      "name": "Back Clipped",
+      "holds": [
+        {
+          "x": 56.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 4.0,
+          "y": 84.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 72.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 112.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 22.0
+    },
+    {
+      "id": "F2BE80120F524951B43495EFDB263765",
+      "name": "Wart",
+      "holds": [
+        {
+          "x": -52.0,
+          "y": -8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -4.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 0.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 0.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -8.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -16.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 152.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 160.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 160.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 164.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 164.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 22.0
+    },
+    {
+      "id": "6b897a4ea6924d32b9fbcf1e97e50a0d",
+      "name": "DZL-18",
+      "holds": [
+        {
+          "x": 16.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 108.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 124.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 22.0
+    }
+  ],
+  "V7": [
+    {
+      "id": "4AE7E0546C004B34952823601BB93288",
+      "name": "Wurm",
+      "holds": [
+        {
+          "x": 44.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 23.0
+    },
+    {
+      "id": "2AFAC63F11844024A5B6CEEC7D16B763",
+      "name": "I Believe I Can Fly",
+      "holds": [
+        {
+          "x": 12.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 16.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 23.0
+    },
+    {
+      "id": "2EE5DB8B6BDE44E192CF7B1B4C4FBD52",
+      "name": "Lank Mank",
+      "holds": [
+        {
+          "x": 8.0,
+          "y": 24.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 23.9846
+    },
+    {
+      "id": "07F9D8482C524CA0A809DEA71A4E4917",
+      "name": "climbing brothers",
+      "holds": [
+        {
+          "x": 84.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 60.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 23.75
+    },
+    {
+      "id": "03AE419C90C94C09BFD6DEC46F1383AE",
+      "name": "Mozart and butch cassidy",
+      "holds": [
+        {
+          "x": 24.0,
+          "y": 16.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 24.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 104.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 23.0
+    }
+  ],
+  "V10": [
+    {
+      "id": "3F10AC780528411E8062830BA00E7785",
+      "name": "Gotcha",
+      "holds": [
+        {
+          "x": 48.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -16.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -16.0,
+          "y": 12.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -4.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 0.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -8.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 144.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 144.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 152.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 156.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 27.8
+    },
+    {
+      "id": "1821fea275584e58b2646291e0049156",
+      "name": "Sleeve Cheese",
+      "holds": [
+        {
+          "x": 8.0,
+          "y": 136.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 124.0,
+          "y": 92.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 27.8
+    },
+    {
+      "id": "0AC2DD193D994ADF8CB6C9BFF2923731",
+      "name": "Room for terror",
+      "holds": [
+        {
+          "x": 32.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 48.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 27.8889
+    },
+    {
+      "id": "5810B6026D504EF4A541E502AFD9781A",
+      "name": "Drop of Honey",
+      "holds": [
+        {
+          "x": 72.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 120.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 27.0
+    },
+    {
+      "id": "7329caee199e4140baf56fea34645a55",
+      "name": "Anchor",
+      "holds": [
+        {
+          "x": 4.0,
+          "y": 132.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 56.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 60.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 100.0,
+          "y": 132.0,
+          "is_start": true,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 27.0
+    }
+  ],
+  "V9": [
+    {
+      "id": "386C295C97134B4C879A6AE595F0E145",
+      "name": "popular",
+      "holds": [
+        {
+          "x": -4.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 12.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -8.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 144.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 152.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 152.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 26.7143
+    },
+    {
+      "id": "1FAA22E1A36C4B84B05F5173F9B5C3D1",
+      "name": "Charlie Work",
+      "holds": [
+        {
+          "x": 20.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 28.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 104.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 26.0
+    },
+    {
+      "id": "393B1067C6554EB8B6864ACA40558B7B",
+      "name": "You\u2019re the Cucumber of My Ear",
+      "holds": [
+        {
+          "x": 4.0,
+          "y": 84.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 8.0,
+          "y": 160.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 20.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 32.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 26.8846
+    },
+    {
+      "id": "36b96789b8ea4c099f63d8ce2e5ba994",
+      "name": "The Mean Machine",
+      "holds": [
+        {
+          "x": 20.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 104.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 26.0
+    },
+    {
+      "id": "141545dea0b34f448a6d745688cdd033",
+      "name": "\"Deception\"",
+      "holds": [
+        {
+          "x": 100.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 108.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 88.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 116.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 26.0
+    }
+  ],
+  "V14": [
+    {
+      "id": "63770E2E57F448F984F7F56F2B4B9E88",
+      "name": "esf   hard",
+      "holds": [
+        {
+          "x": 64.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 92.0,
+          "y": 124.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 112.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 124.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 31.0
+    },
+    {
+      "id": "0B92CB29B66A439C95BF9B174B3680D9",
+      "name": "Feelin\u2019 Shorter",
+      "holds": [
+        {
+          "x": 44.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -48.0,
+          "y": 12.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -44.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -20.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -16.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -12.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -4.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 12.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 31.0
+    },
+    {
+      "id": "d38f63bf62a04691bb963b26e701068f",
+      "name": "Original Fudge",
+      "holds": [
+        {
+          "x": 112.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 176.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 104.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 31.0
+    },
+    {
+      "id": "F8F38CAD74934333A2360646B8FDD1C4",
+      "name": "n-n-n nuggets",
+      "holds": [
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 84.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 92.0,
+          "y": 108.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 100.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 116.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 120.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 120.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 31.0
+    },
+    {
+      "id": "9A563DED94B847939F9BEB1408E3E87C",
+      "name": "Drunks unlimited",
+      "holds": [
+        {
+          "x": 100.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 76.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 31.0
+    }
+  ],
+  "V11": [
+    {
+      "id": "01ae1addad96467ca9cee20c5d7db39a",
+      "name": "soco ish",
+      "holds": [
+        {
+          "x": 4.0,
+          "y": 20.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 12.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 108.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 28.0
+    },
+    {
+      "id": "1073B57877154490BF99553E42EA65B2",
+      "name": "Afternoon Frightening",
+      "holds": [
+        {
+          "x": 4.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 12.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": -8.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 144.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 152.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 148.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 148.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 28.0
+    },
+    {
+      "id": "4cfdb93a95a8430bb16f63011877953d",
+      "name": "Knife Talk",
+      "holds": [
+        {
+          "x": 136.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 32.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 88.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 116.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 116.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 120.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 28.0
+    },
+    {
+      "id": "BC9954DD47EF4E0FA1F2F5DA4DE7B717",
+      "name": "Chun-Li",
+      "holds": [
+        {
+          "x": 60.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 12.0,
+          "y": 108.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 60.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 104.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 28.0
+    },
+    {
+      "id": "8a9495b4857240c2872c815a0337442b",
+      "name": "First Class",
+      "holds": [
+        {
+          "x": 124.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 60.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 160.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 28.0
+    }
+  ],
+  "V15": [
+    {
+      "id": "E56F7EDF5DA14FB28E24E7E67F3D7B4E",
+      "name": "the worst boulder ever, enjoy.",
+      "holds": [
+        {
+          "x": 100.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 12.0,
+          "y": 60.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 104.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 112.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 120.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 32.0
+    },
+    {
+      "id": "55bc22b960c14c818404ef0558f216a2",
+      "name": "Aaaa",
+      "holds": [
+        {
+          "x": 8.0,
+          "y": 144.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 160.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 176.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 32.0
+    },
+    {
+      "id": "52B4522C110744F0A8B255141CFE3A9B",
+      "name": "a wall for a hack",
+      "holds": [
+        {
+          "x": 132.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 76.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 12.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 4.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 12.0,
+          "y": 124.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 32.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 60.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 40.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 108.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 112.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 124.0,
+          "y": 28.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 120.0,
+          "y": 128.0,
+          "is_start": true,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 32.0
+    },
+    {
+      "id": "bfe0419072904c6aa1aecba0c1699841",
+      "name": "raphs sweaty hands",
+      "holds": [
+        {
+          "x": 128.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 92.0,
+          "y": 60.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 52.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 32.0
+    },
+    {
+      "id": "5F1665E9642A47B7A8E02BBEDACC72E8",
+      "name": "hardest route ever\ud83d\ude0f\ud83d\ude0f\ud83d\ude0f\ud83d\ude0f\ud83d\ude0f\ud83e\udd29",
+      "holds": [
+        {
+          "x": 96.0,
+          "y": 80.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 72.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 96.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 108.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 32.0
+    }
+  ],
+  "V13": [
+    {
+      "id": "699BE9CC3934410B9246CAB1FCFA21CB",
+      "name": "happy face",
+      "holds": [
+        {
+          "x": 16.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 20.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 32.0,
+          "y": 136.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 36.0,
+          "y": 132.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 32.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 32.0,
+          "y": 48.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 32.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 84.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 72.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 30.0
+    },
+    {
+      "id": "4F5C8D97ADA44018B296AAF8CCF0BBDA",
+      "name": "JW 1",
+      "holds": [
+        {
+          "x": 100.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 4.0,
+          "y": 52.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 20.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 60.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 80.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 96.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 104.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 30.0
+    },
+    {
+      "id": "23AC20C5C4DD4B68A30DB0DCFCA6ACFB",
+      "name": "Shoulder Daze",
+      "holds": [
+        {
+          "x": 100.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 84.0,
+          "y": 4.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 76.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 12.0,
+          "y": 108.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 16.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 44.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 80.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 100.0,
+          "y": 116.0,
+          "is_start": false,
+          "is_finish": true
+        }
+      ],
+      "angle": null,
+      "difficulty": 30.0
+    },
+    {
+      "id": "8114d04833f24baaace9fa455c814900",
+      "name": "Fudgy Frick Yeah",
+      "holds": [
+        {
+          "x": 112.0,
+          "y": 8.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 176.0,
+          "is_start": true,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 16.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 44.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 40.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 104.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": true
+        },
+        {
+          "x": 120.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 30.0
+    },
+    {
+      "id": "E1F6DAD2A4A04931B64FFDE3FECC3F87",
+      "name": "Start-Hard,Rest-Easy",
+      "holds": [
+        {
+          "x": 140.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 76.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 72.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 4.0,
+          "y": 4.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 8.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 12.0,
+          "y": 76.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 8.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 16.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 24.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 28.0,
+          "y": 28.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 112.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 24.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 128.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 120.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 36.0,
+          "y": 36.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 32.0,
+          "y": 32.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 80.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 40.0,
+          "y": 88.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 168.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 160.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 52.0,
+          "y": 68.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 48.0,
+          "y": 64.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 48.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 56.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 144.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 56.0,
+          "y": 152.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 68.0,
+          "y": 100.0,
+          "is_start": false,
+          "is_finish": false
+        },
+        {
+          "x": 64.0,
+          "y": 96.0,
+          "is_start": false,
+          "is_finish": false
+        }
+      ],
+      "angle": null,
+      "difficulty": 30.0
+    }
+  ]
+}
